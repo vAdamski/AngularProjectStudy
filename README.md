@@ -2,15 +2,15 @@
 1. Rejestracja
 2. Logowanie
 3. Booking biletow
-a. Wydarzenie
-b. Dodawanie wydarzenia
-c. Bookowanie
+   - Wydarzenie
+   - Dodawanie wydarzenia
+   - Bookowanie
 4. UI
-a. Top bar
-b. Stopka
-c. Background
+   - Top bar
+   - Stopka
+   - Background
 5. Bilet
-a. Qr code (na stronie)
+   - Qr code (na stronie)
 
 # Database
 
