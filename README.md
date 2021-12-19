@@ -15,18 +15,18 @@ a. Qr code (na stronie)
 # Database
 
 ## User
--Id -> auto
--UN -> login
--p0 -> password
--p1 -> email
--p2 -> ticketName1
--p3 -> ticketName2
--p4 -> ticketName3
--p5 -> 
--p6 ->
--p7 -> 
--p8 ->
--p9 ->
+- Id -> auto
+- UN -> login
+- p0 -> password
+- p1 -> email
+- p2 -> ticketName1
+- p3 -> ticketName2
+- p4 -> ticketName3
+- p5 -> 
+- p6 ->
+- p7 -> 
+- p8 ->
+- p9 ->
 
 ## Event
 Id -> auto
