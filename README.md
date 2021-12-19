@@ -1,29 +1,56 @@
-# EventsBookApplication
+## To Do
+1. Rejestracja
+2. Logowanie
+3. Booking biletow
+a. Wydarzenie
+b. Dodawanie wydarzenia
+c. Bookowanie
+4. UI
+a. Top bar
+b. Stopka
+c. Background
+5. Bilet
+a. Qr code (na stronie)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
+## Database
+# User
+Id -> auto
+UN -> login
+p0 -> password
+p1 -> email
+p2 -> ticketName1
+p3 -> ticketName2
+p4 -> ticketName3
+p5 -> 
+p6 ->
+p7 -> 
+p8 ->
+p9 ->
 
-## Development server
+# Event
+Id -> auto
+UN -> event000$%
+p0 -> eventName
+p1 -> data
+p2 -> iloscZajetychMiejsc
+p3 -> maksymalnieMiejsc
+p4 -> cena
+p5 ->
+p6 ->
+p7 -> 
+p8 ->
+p9 ->
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# AngularProjectStudy
-# AngularProjectStudy
+# Ticket
+Id -> auto
+UN -> bilet000$%
+p0 -> eventName
+p1 -> osoba1
+p2 -> osoba2
+p3 -> osoba3
+p4 -> osoba4
+p5 -> osoba5
+p6 -> osoba6
+p7 -> osoba7
+p8 -> QRCode
+p9 -> IleOsobNaBilecie
