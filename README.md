@@ -29,29 +29,29 @@ a. Qr code (na stronie)
 - p9 ->
 
 ## Event
-Id -> auto
-UN -> event000$%
-p0 -> eventName
-p1 -> data
-p2 -> iloscZajetychMiejsc
-p3 -> maksymalnieMiejsc
-p4 -> cena
-p5 ->
-p6 ->
-p7 -> 
-p8 ->
-p9 ->
+- Id -> auto
+- UN -> event000$%
+- p0 -> eventName
+- p1 -> data
+- p2 -> iloscZajetychMiejsc
+- p3 -> maksymalnieMiejsc
+- p4 -> cena
+- p5 ->
+- p6 ->
+- p7 -> 
+- p8 ->
+- p9 ->
 
 ## Ticket
-Id -> auto
-UN -> bilet000$%
-p0 -> eventName
-p1 -> osoba1
-p2 -> osoba2
-p3 -> osoba3
-p4 -> osoba4
-p5 -> osoba5
-p6 -> osoba6
-p7 -> osoba7
-p8 -> QRCode
-p9 -> IleOsobNaBilecie
+- Id -> auto
+- UN -> bilet000$%
+- p0 -> eventName
+- p1 -> osoba1
+- p2 -> osoba2
+- p3 -> osoba3
+- p4 -> osoba4
+- p5 -> osoba5
+- p6 -> osoba6
+- p7 -> osoba7
+- p8 -> QRCode
+- p9 -> IleOsobNaBilecie
