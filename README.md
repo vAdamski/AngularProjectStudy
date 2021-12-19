@@ -1,4 +1,4 @@
-## To Do
+# To Do
 1. Rejestracja
 2. Logowanie
 3. Booking biletow
@@ -12,22 +12,23 @@ c. Background
 5. Bilet
 a. Qr code (na stronie)
 
-## Database
-# User
-Id -> auto
-UN -> login
-p0 -> password
-p1 -> email
-p2 -> ticketName1
-p3 -> ticketName2
-p4 -> ticketName3
-p5 -> 
-p6 ->
-p7 -> 
-p8 ->
-p9 ->
+# Database
 
-# Event
+## User
+-Id -> auto
+-UN -> login
+-p0 -> password
+-p1 -> email
+-p2 -> ticketName1
+-p3 -> ticketName2
+-p4 -> ticketName3
+-p5 -> 
+-p6 ->
+-p7 -> 
+-p8 ->
+-p9 ->
+
+## Event
 Id -> auto
 UN -> event000$%
 p0 -> eventName
@@ -41,7 +42,7 @@ p7 ->
 p8 ->
 p9 ->
 
-# Ticket
+## Ticket
 Id -> auto
 UN -> bilet000$%
 p0 -> eventName
