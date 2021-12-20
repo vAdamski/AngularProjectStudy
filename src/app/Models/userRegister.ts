@@ -1,6 +1,6 @@
-export interface UserRegister
+export class UserRegister
 {
-    login: string;
-    email: string;
-    password: string;
+    public login: string = ''; 
+    public email: string = '';
+    public password: string = '';
 }
