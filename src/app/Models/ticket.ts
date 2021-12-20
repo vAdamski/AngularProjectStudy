@@ -1,14 +1,14 @@
-export class Ticket {
-    public id: string; //Id from db
-    public userName: string; //Event 
-    public p0: string;
-    public p1: string;
-    public p2: string;
-    public p3: string;
-    public p4: string;
-    public p5: string;
-    public p6: string;
-    public p7: string;
-    public p8: string;
-    public p9: string;
+export interface Ticket {
+    id: string; //Id from db
+    userName: string; //Event 
+    p0: string;
+    p1: string;
+    p2: string;
+    p3: string;
+    p4: string;
+    p5: string;
+    p6: string;
+    p7: string;
+    p8: string;
+    p9: string;
   }

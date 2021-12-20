@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { User } from '../Models/User';
 import { UserRegister } from '../Models/userRegister';
 
 
@@ -9,7 +10,11 @@ import { UserRegister } from '../Models/userRegister';
 })
 export class RegisterComponent implements OnInit {
 
-  registerUser = new UserRegister();
+  userRegister: UserRegister = {
+    login: '',
+    email: '',
+    password: ''
+  }
 
   constructor() { }
 
@@ -17,7 +22,7 @@ export class RegisterComponent implements OnInit {
   }
 
   register() {
-    console.log(this.registerUser);
+    console.log(this.userRegister);
   }
 
 }
