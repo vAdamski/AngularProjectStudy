@@ -1,6 +1,8 @@
 # To Do
 1. Rejestracja
-2. Logowanie
+   - trzeba zrobić że jak ktoś się zaloguje to znika
+2.  Logowanie
+   - trzeba zrobić że jak ktoś się zaloguje to znika
 3. Booking biletow
    - Wydarzenie
    - Dodawanie wydarzenia
