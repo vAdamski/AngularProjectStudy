@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { User } from '../Models/User';
 import { UserRegister } from '../Models/userRegister';
 
 
